@@ -2,7 +2,7 @@
 
 **britishthebritishguy-hash/britishthebritishguy-hash** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
--  I’m currently working on my Undertale *like* game, Arven!
+-  I’m currently working on my Undertale *like* game, Arven! But, I'm doing a practice project first.
 -  I’m currently learning japanese! And how to code.
 -  I’m looking to collaborate on games that anyone's making! I mostly do art but I can code too.
 -  I’m looking for help with javascript because it's hard to code in.
